@@ -1,2 +1,3 @@
 Setting: A mystical forest filled with ancient trees and hidden paths.
 Plot: Alice and Bob venture into the forest to find a hidden treasure.
+Conflict: The characters face a rival group also searching for the treasure.
